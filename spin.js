@@ -11,5 +11,4 @@ AFRAME.registerComponent('spin', {
     this.el.setAttribute('rotation', rotation);
   }
 
-    
 });
